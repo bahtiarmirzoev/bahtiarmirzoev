@@ -56,18 +56,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bahtiarmirzoev&theme=react-dark&area=true&hide_border=true)
-
----
-
-## 🏆 GitHub Profile Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=bahtiarmirzoev&theme=radical&no-frame=true&row=2&column=4)
-
----
 
 ## 📫 Let's Connect
 
@@ -76,13 +64,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakhtiyarmirzayev@gmail.com)
 
 ---
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable APIs with ASP.NET Core and PostgreSQL](https://your-blog.com/post1)
-- [Implementing JWT Authentication in .NET 6](https://your-blog.com/post2)
-- [Clean Architecture Patterns for .NET Applications](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
