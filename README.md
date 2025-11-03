@@ -8,7 +8,7 @@
 
 I'm a passionate beginner in software development, currently diving deep into the .NET ecosystem and modern web technologies. I love building practical projects and learning through hands-on experience. My goal is to become a proficient backend developer and contribute to meaningful projects.
 
-**📍 Based in:** Russia  
+**📍 Based in:** Azerbaijan  
 **🎓 Status:** Self-taught developer building foundational skills  
 **🔥 Passionate about:** Clean code, API design, and problem-solving
 
