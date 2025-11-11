@@ -60,9 +60,9 @@ I'm a passionate beginner in software development, currently diving deep into th
 
 ## 📊 My Progress
 
-![Bakhtiyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahtiarmirzoev&show_icons=true&theme=default&hide_title=true&hide=prs,issues)
+![Bakhtiyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=profbat018&show_icons=true&theme=default&hide_title=true&hide=prs,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahtiarmirzoev&layout=compact&theme=default&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profbat018&layout=compact&theme=default&hide_title=true)
 
 ---
 
