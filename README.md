@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bakhtiyar Mirzoev!
+# 👋 Hello, I'm Bakhtiyar !
 
 🎯 **Aspiring .NET Developer** | **Passionate about Backend Development** | **Continuous Learner**
 
